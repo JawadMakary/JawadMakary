@@ -57,39 +57,35 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,py,html,css" />
-
-<br/><br/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,angular,bootstrap" />
-
-<br/><br/>
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,spring,dotnet,nodejs" />
-
-<br/><br/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite" />
-<br/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-
-<br/><br/>
-
-**Cloud & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,wordpress,jira,git,postman" />
-
-</div>
+<table width="100%">
+<tr>
+<th align="left" width="18%">Category</th>
+<th align="left">Technologies</th>
+</tr>
+<tr>
+<td><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=js,py,html,css" /></td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,angular,bootstrap" /></td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=java,spring,dotnet,nodejs" /></td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+</td>
+</tr>
+<tr>
+<td><b>Cloud &amp; Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=aws,wordpress,jira,git,postman" /></td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6DB33F&height=3&width=100%" width="100%"/>
 
