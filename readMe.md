@@ -102,12 +102,12 @@ Throughout my career, I've worked across different areas of software development
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JawadMakary&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-stats-extended.vercel.app/api?username=JawadMakary&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165">
   <img src="https://streak-stats.demolab.com?user=JawadMakary&theme=default" alt="GitHub Streak" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadMakary&layout=compact&theme=default&langs_count=8" alt="Top Languages">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JawadMakary&layout=compact&theme=default&langs_count=8" alt="Top Languages">
 </p>
 
 ---
